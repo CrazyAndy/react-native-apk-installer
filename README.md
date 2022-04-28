@@ -7,7 +7,7 @@ react native library for apk install
 requirement RN >= 0.59
 
 ```sh
-yarn add https://github.com/pzxbc/react-native-apk-installer
+yarn add https://github.com/CrazyAndy/react-native-apk-installer
 react-native link react-native-apk-installer
 ```
 
